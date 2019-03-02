@@ -19,6 +19,17 @@ In terms of our initial procedure of analysis, we plan on first doing some data 
 
 When looking ahead at possible problems in our analysis process, since the housing prices could be greatly influenced by supply and demand, we would have to have some sort of method to account for any relevant supply-demand variables. For example, when a city has strong economic growth and job creation, housing prices will increase. More jobs bring new residents to the city which increases the demand for housing and in result increases the price of houses. Another possible issue can arise when we look at two sources of data, and have to figure out a way to combine them.
 
+## References
+“Why West Coast home prices are surging” -Kathryn Vasel https://money.cnn.com/2018/06/13/real_estate/west-coast-housing-markets/index.html
+
+“Why are House Prices so High?” -Positive Money
+https://positivemoney.org/issues/house-prices/
+
+“House Prices.” Information About Factors That Determine Property Prices - HomeGuru, www.homeguru.com.au/house-prices.
+
+Gu Yiyang, “What are the most important factors that influence the changes in London Real Estate Prices? How to quantify them?”,  https://arxiv.org/pdf/1802.08238.pdf
+
+
 
 
 
